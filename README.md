@@ -56,6 +56,7 @@ O projeto está organizado da seguinte forma:
 
 #### Exemplo de Funcionamento
 ![Imagem do Projeto em Execução](./src/images/estruturaDePasta.png)
+***
 ![Imagem do Projeto em Execução](./src/images/execucao.png)
 
 
@@ -64,7 +65,7 @@ O projeto está organizado da seguinte forma:
 Inclua um vídeo de demonstração para mostrar o projeto em funcionamento:
 
 [Vídeo Demonstrativo do Projeto](./src/images/execucaoJava.mp4)
-[![Assista ao vídeo](./src/images/smart-iphone-iphone.java.mp4)
+[![Assista ao vídeo](./src/images/smart-iphone.java.mp4)
 
 Ou, para incorporar o vídeo diretamente:
 
