@@ -5,7 +5,7 @@
 **Desafio: Modelando o iPhone com UML**  
 Funções: Músicas, Chamadas e Internet
 
-
+***
 ### Descrição do Projeto
 
 Este projeto faz parte do desafio proposto para modelar um **iPhone7** utilizando **Java**, com foco na aplicação de conceitos de **UML** (Unified Modeling Language). A partir de um vídeo de referência, as funcionalidades principais do iPhone foram abstraídas e modeladas com base em três áreas:
@@ -55,13 +55,13 @@ Adicione aqui capturas de tela ou diagramas UML para ilustrar a estrutura e func
 ![Diagrama UML do Projeto](./src/images/iphone7.drawio.png)
 
 #### Exemplo de Funcionamento
-![Imagem do Projeto em Execução](caminho/para/imagem-de-execucao.png)
+![Imagem do Projeto em Execução](./src/images/estruturaDepasta.png)
 
 ### Vídeo Demonstrativo
 
 Inclua um vídeo de demonstração para mostrar o projeto em funcionamento:
 
-[Vídeo Demonstrativo do Projeto](https://www.youtube.com/SEU-VIDEO-AQUI)
+[Vídeo Demonstrativo do Projeto](./src/iamages/smartphone-iphone.java)
 
 Ou, para incorporar o vídeo diretamente:
 
