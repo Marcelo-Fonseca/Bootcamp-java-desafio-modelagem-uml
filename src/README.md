@@ -55,7 +55,7 @@ Adicione aqui capturas de tela ou diagramas UML para ilustrar a estrutura e func
 ![Diagrama UML do Projeto](./src/images/iphone7.drawio.png)
 
 #### Exemplo de Funcionamento
-![Imagem do Projeto em Execução](caminho/para/imagem-de-execucao.png)
+![Imagem do Projeto em Execução](./src/imagens/execucao.png)
 
 ### Vídeo Demonstrativo
 
