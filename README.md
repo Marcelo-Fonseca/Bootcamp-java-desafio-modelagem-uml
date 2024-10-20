@@ -16,6 +16,14 @@ Este projeto faz parte do desafio proposto para modelar um **iPhone7** utilizand
 
 O desafio envolve a implementação de um modelo de iPhone usando **Java**, estruturando o código em pacotes e interfaces. O projeto está dividido em dois pacotes principais:
 
+### Estrutura do Projeto
+
+O projeto está organizado da seguinte forma:
+
+- **Pacote: `smartphone`**
+    - `Smartphone`: Classe principal que define as funcionalidades básicas de um smartphone.
+    - `iPhone`: Classe que herda de `Smartphone` e modela o iPhone7 com suas funcionalidades.
+
 - **Pacote: `smartphone`**  
   Contém duas classes principais:
     - `Smartphone`: Responsável por implementar as funcionalidades gerais de um smartphone.
@@ -39,13 +47,7 @@ As funcionalidades que o projeto abrange incluem tocar música, fazer e receber 
 [Vídeo de Referência](https://www.youtube.com/watch?v=9ou608QQRq8)  
 (Observação: Vídeo utilizado entre os tempos 00:15 até 00:55)
 
-### Estrutura do Projeto
 
-O projeto está organizado da seguinte forma:
-
-- **Pacote: `smartphone`**
-    - `Smartphone`: Classe principal que define as funcionalidades básicas de um smartphone.
-    - `iPhone`: Classe que herda de `Smartphone` e modela o iPhone7 com suas funcionalidades.
 
 ### Funcionalidades Principais
 
