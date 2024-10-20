@@ -21,7 +21,7 @@ O desafio envolve a implementação de um modelo de iPhone usando **Java**, estr
     - `Smartphone`: Responsável por implementar as funcionalidades gerais de um smartphone.
     - `iPhone`: Classe que herda de `Smartphone` e representa o modelo **iPhone7** com suas funcionalidades específicas.
 
-As funcionalidades que o projeto abrange incluem tocar música, fazer e receber chamadas e navegar na internet, simulando o comportamento de um smartphone real.
+As funcionalidades que o projeto abrange incluem tocar música, fazer e receber chamadas e navegar na internet, simulando o comportamento de um smartphone real conforme o diagrama Uml.
 
 ### Referências
 
@@ -65,11 +65,9 @@ O projeto está organizado da seguinte forma:
 Inclua um vídeo de demonstração para mostrar o projeto em funcionamento:
 
 [!Vídeo Demonstrativo do Projeto](./src/images/execucaoJava.mp4)
-[![Assista ao vídeo](./src/images/smart-iphone.java.mp4)
 
-Ou, para incorporar o vídeo diretamente:
 
-[![Assista ao vídeo](https://img.youtube.com/vi/9ou608QQRq8/0.jpg)](https://www.youtube.com/watch?v=9ou608QQRq8)
+***
 
 ### Tecnologias Utilizadas
 
