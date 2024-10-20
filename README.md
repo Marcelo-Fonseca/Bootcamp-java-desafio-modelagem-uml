@@ -52,7 +52,7 @@ O projeto está organizado da seguinte forma:
 Adicione aqui capturas de tela ou diagramas UML para ilustrar a estrutura e funcionamento do projeto.
 
 #### Exemplo de Diagrama UML
-![Diagrama UML do Projeto](./src/imagens/estruturaDePasta.png)
+![Diagrama UML do Projeto](./src/images/estruturaDePasta.png)
 
 #### Exemplo de Funcionamento
 ![Imagem do Projeto em Execução](caminho/para/imagem-de-execucao.png)
