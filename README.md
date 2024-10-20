@@ -52,16 +52,16 @@ O projeto está organizado da seguinte forma:
 Adicione aqui capturas de tela ou diagramas UML para ilustrar a estrutura e funcionamento do projeto.
 
 #### Exemplo de Diagrama UML
-![Diagrama UML do Projeto](./src/images/estruturaDePasta.png)
+![Diagrama UML do Projeto](./src/images/iphone7.drawio.png)
 
 #### Exemplo de Funcionamento
-![Imagem do Projeto em Execução](caminho/para/imagem-de-execucao.png)
+![Imagem do Projeto em Execução](./src/images/estruturaDepasta.png)
 
 ### Vídeo Demonstrativo
 
 Inclua um vídeo de demonstração para mostrar o projeto em funcionamento:
 
-[Vídeo Demonstrativo do Projeto](https://www.youtube.com/SEU-VIDEO-AQUI)
+[Vídeo Demonstrativo do Projeto](./src/iamages/smartphone-iphone.java)
 
 Ou, para incorporar o vídeo diretamente:
 
