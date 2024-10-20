@@ -26,6 +26,7 @@ As funcionalidades que o projeto abrange incluem tocar música, fazer e receber 
 ### Referências
 
 [Vídeo de Referência](https://www.youtube.com/watch?v=9ou608QQRq8)  
+[![Assista ao vídeo](https://img.youtube.com/vi/9ou608QQRq8/0.jpg)](https://www.youtube.com/watch?v=9ou608QQRq8)
 (Observação: Vídeo utilizado entre os tempos 00:15 até 00:55)
 
 ### Estrutura do Projeto
@@ -49,9 +50,9 @@ O projeto está organizado da seguinte forma:
 
 ### Imagens
 
-Adicione aqui capturas de tela ou diagramas UML para ilustrar a estrutura e funcionamento do projeto.
+ diagramas UML 
 
-#### Exemplo de Diagrama UML
+###Diagrama UML iphone7
 ![Diagrama UML do Projeto](./src/images/iphone7.drawio.png)
 
 #### Exemplo de Funcionamento
@@ -71,10 +72,10 @@ Ou, para incorporar o vídeo diretamente:
 ### Tecnologias Utilizadas
 
 - **Java**
-- **UML** (para o diagrama de classes)
+- **Draw.io** (para o diagrama de classes UML)
 
 ### Como Executar o Projeto
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Bootcamp-java-desafio-modelagem-uml.git
+   git clone https://github.com/Marcelo-Fonseca/Bootcamp-java-desafio-modelagem-uml.git
