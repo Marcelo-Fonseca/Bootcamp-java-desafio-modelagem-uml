@@ -64,7 +64,7 @@ O projeto está organizado da seguinte forma:
 Inclua um vídeo de demonstração para mostrar o projeto em funcionamento:
 
 [Vídeo Demonstrativo do Projeto](./src/images/execucaoJava.mp4)
-[![Assista ao vídeo](./src/images/smartphone-iphone2024-10-19-12-07-38.mp4)
+[![Assista ao vídeo](./src/images/smart-iphone-iphone.java.mp4)
 
 Ou, para incorporar o vídeo diretamente:
 
