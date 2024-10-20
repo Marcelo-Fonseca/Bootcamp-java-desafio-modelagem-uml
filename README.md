@@ -57,6 +57,8 @@ O projeto está organizado da seguinte forma:
 
 #### Exemplo de Funcionamento
 ![Imagem do Projeto em Execução](./src/images/estruturaDePasta.png)
+![Imagem do Projeto em Execução](./src/images/execucao.png)
+
 
 ### Vídeo Demonstrativo
 
