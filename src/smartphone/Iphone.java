@@ -36,6 +36,7 @@ public class Iphone {
         iphone7.trocarMusica();
         iphone7.selecionarMusica();
         iphone7.fecharMusica();
+        System.out.println("-------------------------");
 
     }
 }
