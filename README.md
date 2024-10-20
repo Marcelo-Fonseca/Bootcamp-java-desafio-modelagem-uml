@@ -44,7 +44,7 @@ As funcionalidades que o projeto abrange incluem tocar música, fazer e receber 
 
 ### Referências
 
-![Vídeo de Referência](https://www.youtube.com/watch?v=9ou608QQRq8)  
+[!Vídeo de Referência](https://www.youtube.com/watch?v=9ou608QQRq8)  
 (Observação: Vídeo utilizado entre os tempos 00:15 até 00:55)
 
 
