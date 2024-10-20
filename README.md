@@ -26,7 +26,6 @@ As funcionalidades que o projeto abrange incluem tocar música, fazer e receber 
 ### Referências
 
 [Vídeo de Referência](https://www.youtube.com/watch?v=9ou608QQRq8)  
-[![Assista ao vídeo](https://img.youtube.com/vi/9ou608QQRq8/0.jpg)](https://www.youtube.com/watch?v=9ou608QQRq8)
 (Observação: Vídeo utilizado entre os tempos 00:15 até 00:55)
 
 ### Estrutura do Projeto
@@ -65,7 +64,7 @@ O projeto está organizado da seguinte forma:
 Inclua um vídeo de demonstração para mostrar o projeto em funcionamento:
 
 [Vídeo Demonstrativo do Projeto](./src/images/execucaoJava.mp4)
-[![Assista ao vídeo](./src/images/execucaoJava.mp4)
+[![Assista ao vídeo](./src/images/smartphone-iphone2024-10-19-12-07-38.mp4)
 
 Ou, para incorporar o vídeo diretamente:
 
