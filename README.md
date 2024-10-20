@@ -61,7 +61,7 @@ Adicione aqui capturas de tela ou diagramas UML para ilustrar a estrutura e func
 
 Inclua um vídeo de demonstração para mostrar o projeto em funcionamento:
 
-[Vídeo Demonstrativo do Projeto](./src/iamages/execucaoJava.mp4)
+[Vídeo Demonstrativo do Projeto](./src/images/execucaoJava.mp4)
 
 Ou, para incorporar o vídeo diretamente:
 
