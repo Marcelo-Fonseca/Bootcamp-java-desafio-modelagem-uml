@@ -65,7 +65,7 @@ Inclua um vídeo de demonstração para mostrar o projeto em funcionamento:
 
 Ou, para incorporar o vídeo diretamente:
 
-[![Assista ao vídeo](https://img.youtube.com/vi/9ou608QQRq8/0.jpg)](https://www.youtube.com/watch?v=9ou608QQRq8)
+[![Assista ao vídeo](./src/images/execucaoJava.mp4)
 
 ### Tecnologias Utilizadas
 
