@@ -55,13 +55,13 @@ Adicione aqui capturas de tela ou diagramas UML para ilustrar a estrutura e func
 ![Diagrama UML do Projeto](./src/images/iphone7.drawio.png)
 
 #### Exemplo de Funcionamento
-![Imagem do Projeto em Execução](./src/images/estruturaDepasta.png)
+![Imagem do Projeto em Execução](./src/images/estruturaDePasta.png)
 
 ### Vídeo Demonstrativo
 
 Inclua um vídeo de demonstração para mostrar o projeto em funcionamento:
 
-[Vídeo Demonstrativo do Projeto](./src/iamages/smartphone-iphone.java)
+[Vídeo Demonstrativo do Projeto](./src/iamages/execucaoJava.mp4)
 
 Ou, para incorporar o vídeo diretamente:
 
