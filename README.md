@@ -20,6 +20,17 @@ O desafio envolve a implementação de um modelo de iPhone usando **Java**, estr
   Contém duas classes principais:
     - `Smartphone`: Responsável por implementar as funcionalidades gerais de um smartphone.
     - `iPhone`: Classe que herda de `Smartphone` e representa o modelo **iPhone7** com suas funcionalidades específicas.
+ 
+    - **Pacote: `reprodutor`**  
+  Contém Interface: ReprodutorMusical  classe:Ipod
+    - `ReprodutorMusical`: Responsável por implementar as funcionalidade ipod.
+    -   - **Pacote: `Internet`**  
+  Contém Interface NavegadorDeInternet classe: Internet
+    - `NavegadorDeInternet`: Responsável por implementar as funcionalidade Internet.
+    -  **Pacote: `telefone`**  
+  Contém Interface AparelhoTelefonico classe: Celualr
+    - `AparelhoTelefonico`: Responsável por implementar as funcionalidade Celular.
+   
 
 As funcionalidades que o projeto abrange incluem tocar música, fazer e receber chamadas e navegar na internet, simulando o comportamento de um smartphone real conforme o diagrama Uml.
 
